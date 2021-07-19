@@ -1,0 +1,15 @@
+name: Update gist with WakaTime stats
+on:
+  schedule:
+    - cron: "*/10 * * * *" # 可修改 "*/10 * * * *" 每10分钟 action，方便调试
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: 4927525/4927525@master # 原 matchai/waka-box，修改成自己的
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 5c4aeba56038fdafa38eaf3cea866dcf
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
