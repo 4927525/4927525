@@ -12,16 +12,20 @@
 - 📫 How to reach me: [@Telegram to 4927525](https://t.me/hzbskak).
 - 😄 Pronouns: Kevin / 凯文 .
 
-![](https://img.shields.io/docker/v/hzbskak/testsbw)
+![](https://img.shields.io/docker/pulls/hzbskak/testsbw)
 ![](https://img.shields.io/badge/Go-1.16-1cadd5)
 ![](https://img.shields.io/badge/php-7.4.3-9cf)
 ![](https://visitor-badge.laobi.icu/badge?page_id=4927525.4927525)
 ![](https://wakatime.com/badge/github/4927525/4927525.svg)
 
 
-<!--START_SECTION:waka--> 
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+-------
 <a href="https://github.com/4927525?tab=repositories">
 
 <table cellspacing="0" cellpadding="0">
