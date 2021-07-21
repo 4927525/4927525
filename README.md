@@ -1,5 +1,5 @@
 <a href="https://github.com/4927525?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=4927525&count_private=&show_icons=true" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=4927525&count_private=true&show_icons=true" width="45%" />
   <img align="right" src="img/go.gif"/>
 </a>
 
