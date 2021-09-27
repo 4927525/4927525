@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working for `PHP`.
-- 🌱 I’m currently learning ```internet of things`, `algorithm`, `micro service`.
+- 🌱 I’m currently learning `internet of things`, `algorithm`, `micro service`.
 - 🔗 Personal website: [https://hugo-skteam1.vercel.app/](https://hugo-skteam1.vercel.app/)  
     - 💬 Ask me about anything: [@Email to 4927525](mailto:hzbskak@gmail.com).
 - 📫 How to reach me: [@Telegram to 4927525](https://t.me/hzbskak).
