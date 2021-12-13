@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working for `PHP`.
 - 🌱 I’m currently learning `internet of things`, `algorithm`, `micro service`.
-- 🔗 Personal website: [https://hugo-skteam1.vercel.app/](https://hugo-skteam1.vercel.app/)  
+- 🔗 Personal website: [https://4927525.github.io/](https://4927525.github.io/)  
     - 💬 Ask me about anything: [@Email to 4927525](mailto:hzbskak@gmail.com).
 - 📫 How to reach me: [@Telegram to 4927525](https://t.me/hzbskak).
 - 😄 Pronouns: Kevin / 凯文 .
