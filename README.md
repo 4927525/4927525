@@ -13,8 +13,8 @@
 - 😄 Pronouns: Kevin / 凯文 .
 
 ![](https://img.shields.io/docker/pulls/hzbskak/testsbw)
-![](https://img.shields.io/badge/Go-1.16-1cadd5)
-![](https://img.shields.io/badge/php-7.4.3-9cf)
+![](https://img.shields.io/badge/Go-1.19-1cadd5)
+![](https://img.shields.io/badge/php-7.3.9-9cf)
 ![](https://visitor-badge.laobi.icu/badge?page_id=4927525.4927525)
 ![](https://wakatime.com/badge/github/4927525/4927525.svg)
 
