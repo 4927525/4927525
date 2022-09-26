@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=4927525&count_private=true&show_icons=true" width="45%" />
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4927525&layout=compact)](https://github.com/4927525/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4927525&layout=compact&hide=html,javascript,blade,css,shell,batchfile)](https://github.com/4927525/github-readme-stats)
 
 
   <img align="right" src="img/go.gif"/>
